@@ -1,0 +1,6 @@
+The only real limitation to bitmap design is file size. Creating crisp and highly detailed images requires a higher number of "bits." This can mean that these images take up a great deal of computing space.
+
+Furthermore, an image cannot effectively have a higher resolution than the screen that it appears on.
+
+To understand the limitations of display and bitmaps, put your eye very close to your screen to see "the screendoor effect." This is the grid pattern that appears on digital images due to the space between pixels. It's a big topic in virtual reality because of how close the display is to your face, but it's actually a factor in any digital display.
+
